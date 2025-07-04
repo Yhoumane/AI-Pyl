@@ -1,0 +1,43 @@
+All Rights Reserved – Yasser HOUMANE © 2025
+
+This software, "PylonAI", was independently developed by Yasser HOUMANE as part of a personal academic project.
+
+It is provided exclusively for educational, personal, and demonstrative purposes.
+
+=======================
+🚫 RESTRICTIONS ON USE
+=======================
+
+The following are strictly prohibited without the author's explicit written consent:
+
+1. **Commercial Use**:
+   - Selling, licensing, or monetizing this software in any way.
+   - Integrating it into commercial or paid platforms or services.
+
+2. **Enterprise/Internal Use**:
+   - Using the software within a company to reduce operational costs, streamline internal inspections, or automate processes.
+   - Deploying this software as part of internal infrastructure, tools, or R&D, even if not sold externally.
+
+3. **Reproduction or Derivative Work**:
+   - Reproducing key ideas, features, algorithms, UI structure, or workflow to build a similar tool.
+   - Using this software as a base or reference to develop any similar inspection-related application.
+
+4. **Reverse Engineering / Concept Cloning**:
+   - Studying the code or its outputs to replicate its behavior or logic in another application or prototype.
+
+=========================
+📩 LICENSING & CONTACT
+=========================
+
+Any form of use beyond personal exploration must be covered by a **separate licensing agreement** negotiated with the author.
+
+Contact the author at: **yasser6houmane@gmail.com**
+
+======================
+⚖️ LEGAL NOTICE
+======================
+
+Violating this license may lead to civil or criminal prosecution under applicable intellectual property laws.
+
+This software is provided “AS IS”, without any warranty of any kind.
+The author shall not be held liable for any damages arising from its use.

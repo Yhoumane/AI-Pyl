@@ -1,0 +1,20 @@
+{
+  "name": "gestion-ml",
+  "version": "1.0.0",
+  "description": "Electron app: import dossier, lancer ML, télécharger résultats",
+  "main": "main.js",
+  "scripts": {
+    "start": "concurrently -k -n flask1,flask2,flask3,node,electron -c green,magenta,cyan,blue,yellow \"npm run flask1\" \"npm run flask2\" \"npm run flask3\" \"npm run node\" \"npm run electron\"",
+    "flask1": "cd backend && python classify_server.py",
+    "flask2": "cd backend && python corrosion_server.py",
+    "flask3": "cd backend && python app.py",
+    "node": "node backend/server.js",
+    "electron": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "concurrently": "^8.2.0"
+  },
+  "author": "HOUMANE Yasser",
+  "license": "SEE LICENSE.txt"
+}
